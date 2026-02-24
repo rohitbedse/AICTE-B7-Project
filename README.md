@@ -1,6 +1,6 @@
 # 🧠 Job Application Intelligence System
 
-> **AICTE Internship Project** | EduSkills Foundation & IBM SkillsBuild  
+> **AICTE Internship Project** | EduNet Foundation & IBM SkillsBuild  
 > A smart resume analyzer powered by Google's Gemini AI and LangChain
 
 ---
@@ -202,8 +202,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Rohit Bedse 
-AICTE Intern | EduSkills Foundation & IBM SkillsBuild  
+Rohit Bedse \n
+
+AICTE Intern | EduNet Foundation & IBM SkillsBuild  
 [LinkedIn](#) | [GitHub](#) | [Email](#)
 
 ---
