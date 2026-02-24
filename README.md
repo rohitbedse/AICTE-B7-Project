@@ -146,6 +146,20 @@ streamlit run app.py
 └─────────────────────────┘
 ```
 
+##Screenshots
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="MLflow 2 Runs Comparison" width="85%">
+</p>
+
+<p align="center">
+  <img src="screenshots/results.png" alt="MLflow 2 Runs Comparison" width="85%">
+</p>
+
+<p align="center">
+  <img src="screenshots/results2.png" alt="MLflow 2 Runs Comparison" width="85%">
+</p>
+
+
 **Parallel Processing Benefits:**
 - 4x faster than sequential processing
 - Independent AI calls for each analysis type
@@ -202,7 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Rohit Bedse 
+Rohit Bedse
+
 AICTE Intern | EduNet Foundation & IBM SkillsBuild  
 [LinkedIn](#) | [GitHub](#) | [Email](#)
 
