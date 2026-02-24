@@ -155,10 +155,12 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*Add your screenshots here:*
 ```
-![Dashboard](screenshots/dashboard.png)
-![Results](screenshots/results.png)
+### 🖥️ Dashboard
+![Dashboard](https://github.com/rohitbedse/AICTE-B7-Project/blob/main/screenshots/dashboard.png)
+
+### 📊 Results  
+![Results](https://github.com/rohitbedse/AICTE-B7-Project/blob/main/screenshots/results.png)
 ```
 
 ---
