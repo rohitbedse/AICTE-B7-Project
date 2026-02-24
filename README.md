@@ -150,19 +150,7 @@ streamlit run app.py
 - 4x faster than sequential processing
 - Independent AI calls for each analysis type
 - Efficient resource utilization
-
----
-
-## 📸 Screenshots
-
-```
-### 🖥️ Dashboard
-![Dashboard](https://github.com/rohitbedse/AICTE-B7-Project/blob/main/screenshots/dashboard.png)
-
-### 📊 Results  
-![Results](https://github.com/rohitbedse/AICTE-B7-Project/blob/main/screenshots/results.png)
-```
-
+  
 ---
 
 ## 🔮 Future Enhancements
@@ -220,4 +208,3 @@ AICTE Intern | EduSkills Foundation & IBM SkillsBuild
 
 ---
 
-This README follows professional standards and highlights your AICTE internship context prominently. It includes security best practices for API handling and provides clear setup instructions for evaluators. Good luck with your submission! 🚀
