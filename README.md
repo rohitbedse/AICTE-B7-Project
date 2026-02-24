@@ -202,8 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Rohit Bedse \n
-
+Rohit Bedse 
 AICTE Intern | EduNet Foundation & IBM SkillsBuild  
 [LinkedIn](#) | [GitHub](#) | [Email](#)
 
